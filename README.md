@@ -57,7 +57,9 @@ Completed projects in **AI/ML**, and actively practicing **DSA** on **LeetCode**
 
 ### 🍫 CodeChef  
 [![CodeChef](https://img.shields.io/badge/CodeChef-pradhakshini40-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pradhakshini40)  
-![CodeChef Rating](https://www.codechef.com/users/pradhakshini40/badges/large)
+![CodeChef Rating](https://img.shields.io/badge/Rating-1855-orange?style=for-the-badge&logo=codechef&logoColor=white)
+
+> 🔹 Replace `1855` with your current CodeChef rating to keep it up-to-date.
 
 ---
 
@@ -110,6 +112,7 @@ Completed projects in **AI/ML**, and actively practicing **DSA** on **LeetCode**
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhakshini68@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhakshini-p)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradha-glitch)
+
 
 
 
