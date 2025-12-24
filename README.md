@@ -1,113 +1,116 @@
+<!-- ================= INTRO ================= -->
+<h1 align="center">Pradhakshini P</h1>
+<h3 align="center">DSA Enthusiast | Aspiring Software Developer</h3>
 
-<!-- ================= NAME TYPING ANIMATION ================= -->
+---
+
+<!-- ================= PROFILE BADGES ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=HELLO!;I'M+PRADHAKSHINI+P;DSA+ENTHUSIAST+%26+AI+DEVELOPER" alt="Typing SVG"/>
+  <img src="https://komarev.com/ghpvc/?username=Pradha-glitch&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Pradha-glitch?label=Followers&style=flat&color=ff1493" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Pradha-glitch?label=Stars&style=flat&color=ff69b4" alt="stars" />
 </p>
 
 ---
 
-## 📖 About Me
-<img src="https://media.giphy.com/media/2dZVbN1nDOLKk/giphy.gif" width="80" align="right"/>
+## 🚀 About Me  
 
-👩‍💻 Third-year **B.Tech AI & Data Science** student  
-💻 Passionate about **full-stack web apps 🌐, ML/AI models 🧠, and solving real-world problems 🌍**  
-🚀 Continuously learning **new technologies & frameworks** ⚡  
-🤝 Enjoy collaborating on **innovative projects & team environments**  
-💡 Proven mindset for **problem-solving 🛠️ and data-driven decisions 📊**  
-🐧 Pro-user of **Linux** and modern dev tools 💼  
+Aspiring Software Development Engineer passionate about building **full-stack applications**, exploring **AI & Data Science**, and solving real-world problems.  
+
+Currently pursuing **B.Tech in AI & Data Science**, with hands-on experience in  
+**React**, **Node.js**, **Python**, and **Express.js**.  
+Completed projects in **AI/ML**, and actively practicing **DSA** on **LeetCode** and **CodeChef**.
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,mysql,mongodb,git,github,vscode,postman" />
-</p>
+### 🖥️ Programming Languages  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🏅 Coding Profiles & Platforms
+### 🗄️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Pradhakshini_p-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Pradhakshini_p/)  
-  [![CodeChef](https://img.shields.io/badge/CodeChef-pradhakshini40-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/pradhakshini40)  
-  [![Codolio](https://img.shields.io/badge/Codolio-Pradha__98-orange?style=for-the-badge&logo=codolio)](https://codolio.com/profile/pradha_98)
-</p>
-
----
-
-## 🚀 Featured Projects (GIF Preview)
-
-### 📌 AI Medical Diagnosis Agent
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pradha-glitch/project-images/main/ai_medical_demo.gif" width="65%" alt="AI Medical Demo"/>
-</p>
-🔹 Symptom-based disease prediction with probability scoring  
-🔹 Chat-style Python interface  
-🔹 **Tech:** Python, Pandas, Scikit-learn  
+### 🔧 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📌 Financial Fraud Detection System
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pradha-glitch/project-images/main/fraud_detection.gif" width="65%" alt="Fraud Detection Demo"/>
-</p>
-🔹 Detects fraudulent transactions using ML, SMOTE & optimized accuracy >80%  
-🔹 **Tech:** Python, Pandas, Scikit-learn, Matplotlib  
+## 🏆 Coding Profiles
+
+### 🚀 LeetCode  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Pradhakshini_p-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pradhakshini_p/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pradhakshini_p?theme=dark)
+
+### 🍫 CodeChef  
+[![CodeChef](https://img.shields.io/badge/CodeChef-pradhakshini40-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/pradhakshini40)  
+![CodeChef Rating](https://www.codechef.com/users/pradhakshini40/badges/large)
 
 ---
 
-### 📌 House Price Prediction
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pradha-glitch/project-images/main/house_price.gif" width="65%" alt="House Price Demo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradha-glitch&theme=dracula&show_icons=true&count_private=true" height="160" />
 </p>
-🔹 Regression modeling with EDA, scaling & outlier handling  
-🔹 Cross-validated models for reliable predictions  
-🔹 **Tech:** Python, Scikit-learn  
+
+[![GitHub Activity Graph](https://ghchart.rshah.org/Pradha-glitch)](https://github.com/Pradha-glitch)
 
 ---
 
-### 📌 AI-Based Underwater Image Enhancement
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pradha-glitch/project-images/main/underwater_ai.gif" width="65%" alt="Underwater AI Demo"/>
-</p>
-🔹 Deep learning-based image clarity & color correction  
-🔹 **Tech:** Python, OpenCV, CNN  
+## 🧿 Projects
+
+### **1. AI Agent for Medical Diagnosis**  
+**Description:** AI assistant predicting diseases from symptoms with probability-based suggestions and a chat-style Python interface.  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### **2. Financial Fraud Detection System**  
+**Description:** ML model to classify fraudulent transactions with feature engineering, SMOTE-based data balancing, and optimized accuracy >80%.  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+### **3. House Price Prediction**  
+**Description:** Regression model predicting property prices using area, location, and amenities. Performed EDA, feature scaling, outlier removal, and cross-validation.  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-FF6F61?style=for-the-badge)
+
+### **4. AI-Based Underwater Image Enhancement**  
+**Description:** Enhanced underwater images using AI-based image processing to improve clarity, color, and contrast for better visual quality.  
+**Tech Used:**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F61?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Analytics
+## 📬 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradha-glitch&show_icons=true&theme=tokyonight" width="48%"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradha-glitch&theme=tokyonight" width="48%"/>
-</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhakshini68@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradhakshini-p)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradha-glitch)
 
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pradhakshini-p/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pradhakshini%20P-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:pradhakshini68@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/Pradha-glitch">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://codolio.com/profile/pradha_98">
-    <img src="https://img.shields.io/badge/Codolio-Profile-FF7F50?style=for-the-badge&logo=codolio"/>
-  </a>
-</p>
-
----
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
 
 
 
