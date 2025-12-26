@@ -12,10 +12,10 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 AI & Data Science Undergraduate  
-- 💡 Building real-world AI & full stack systems  
+- 🎓 **AI & Data Science Undergraduate (CGPA: 8.7/10)**  
+- 💡 Building real-world AI & Full Stack systems  
 - 💼 Open to ML / Software Developer roles  
-- 🌟 Passionate about problem solving & clean code
+- 🌟 Passionate about problem solving, clean code & scalable solutions  
 
 ---
 
@@ -35,7 +35,7 @@
   </a>
 </p>
 Smart multi-agent AI system to analyze medical reports and assist in diagnostic inference.  
-`Tech:` Python • NLP • Machine Learning • Streamlit
+`Tech:` Python • NLP • Machine Learning • Streamlit  
 
 ---
 
@@ -46,7 +46,7 @@ Smart multi-agent AI system to analyze medical reports and assist in diagnostic 
   </a>
 </p>
 AI model analyzing underwater footage to detect coral reef health and marine ecosystem conditions.  
-`Tech:` Python • TensorFlow • OpenCV • CV
+`Tech:` Python • TensorFlow • OpenCV • Computer Vision  
 
 ---
 
@@ -56,8 +56,8 @@ AI model analyzing underwater footage to detect coral reef health and marine eco
     <img src="https://raw.githubusercontent.com/pradhakshini/Pradha-glitch/main/fraud_dectect.img.jpg" width="70%"/>
   </a>
 </p>
-ML system to detect fraudulent financial transactions using classical classifiers and feature engineering.  
-`Tech:` Python • Scikit-Learn • Data Analysis
+ML system to detect fraudulent financial transactions using classification models and feature engineering.  
+`Tech:` Python • Scikit-Learn • Data Analysis  
 
 ---
 
@@ -87,6 +87,7 @@ ML system to detect fraudulent financial transactions using classical classifier
 
 ---
 
-✨ *“Building AI that solves real-world problems.”*
+<h3 align="center">✨ Building AI that solves real-world problems ✨</h3>
+
 
 
