@@ -53,7 +53,7 @@ AI model analyzing underwater footage to detect coral reef health and marine eco
 ### 🎓 Online Course Platform (SkillSphere)
 <p align="center">
   <a href="https://github.com/Pradhakshini-p/online-course-platform">
-    <img src="https://raw.githubusercontent.com/pradhakshini/Pradha-glitch/main/online_course_platform_banner.jpg" width="70%"/>
+    <img src="course_website.png" width="70%"/>
   </a>
 </p>
 A full-stack online learning platform where users can browse, enroll, and manage courses with real-time UI and localStorage-based enrollment system.  
